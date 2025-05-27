@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Aldrich&size=24&duration=2000&pause=500&color=0586ff&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Front+End+Developer+%E2%9C%A8;Backend+Developer+%E2%9A%99%EF%B8%8F;Full+Stack+Developer%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
-## <div align="center">🙋 Welcome To My Coding World ヾ(≧▽≦\*)o</div>
+## <div align="center">🙋 Welcome To My Coding World 🌏  ヾ(≧▽≦\*)o</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
@@ -50,14 +50,14 @@
 
 </div>
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirayut16&layout=compact&hide_border=true&title_color=00D8FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
   
 </div>
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me:
 
 <div align="center">
 
