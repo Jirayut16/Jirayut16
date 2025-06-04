@@ -50,8 +50,6 @@
 
 </div>
 
-## 📊 GitHub Analytics:
-
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirayut16&layout=compact&hide_border=true&title_color=00D8FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
   
